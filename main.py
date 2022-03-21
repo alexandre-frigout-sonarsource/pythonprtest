@@ -6,3 +6,6 @@ class A:
 
 	def branch():
 		print("branch")
+
+	def pr1b():
+		print("pr1b")
