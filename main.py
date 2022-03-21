@@ -9,3 +9,7 @@ class A:
 
 	def pr1b():
 		print("pr1b")
+	
+	def updatemaster():
+		print("upd master")
+
