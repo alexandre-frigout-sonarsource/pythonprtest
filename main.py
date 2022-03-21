@@ -7,3 +7,6 @@ class A:
 	def updatemaster():
 		print("upd master")
 
+	def PRfrommaster():
+		print("PR master")
+
