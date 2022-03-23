@@ -15,3 +15,6 @@ class A:
 
 	def prtopush():
 		print("PUSH")
+
+	def push():
+		print("P")
