@@ -13,3 +13,5 @@ class A:
 	def updatemaster():
 		print("upd master")
 
+	def prtopush():
+		print("PUSH")
