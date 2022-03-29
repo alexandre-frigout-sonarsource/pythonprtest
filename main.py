@@ -18,3 +18,6 @@ class A:
 
 	def push():
 		print("P")
+	def PRfrommaster():
+		print("PR master")
+
