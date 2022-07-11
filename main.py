@@ -10,3 +10,5 @@ class A:
 	def PRfrommaster():
 		print("PR master")
 
+	def testwebhook(self):
+		print("Hello webhook")
